@@ -8,6 +8,13 @@
 
 ## Usage dashboard
 
+<table>
+  <tr>
+    <td width="50%" valign="top"><img src="vulcan-token-spend.png" alt="Vulcan Token Spend card: sessions, requests, tokens, streaks, peak hour, favourite model and an hour-by-weekday activity grid" width="100%"></td>
+    <td width="50%" valign="top"><img src="claude-relax.gif" alt="Claude mark relaxing on a towel under a palm tree at sunset" width="100%"></td>
+  </tr>
+</table>
+
 Vulcan token use on this PC, from Aether's usage tracker. Tokens are the units AI models bill by.
 
 | Window | Tokens | Requests | Sessions |
